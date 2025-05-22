@@ -41,6 +41,7 @@ env/
 
 # Cache
 .cache/
+.analysis_cache/
 
 # Streamlit
 .streamlit/
@@ -48,3 +49,17 @@ env/
 # Local data
 *.pkl
 *.db
+*.csv
+*_temp*.csv
+
+# Reports and analysis
+reports/
+
+# Deployment
+windsurf_deployment.yaml
+netlify.toml
+
+# Temporary files
+*.tmp
+*~
+.tmp/
