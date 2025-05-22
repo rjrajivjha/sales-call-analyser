@@ -1,0 +1,9 @@
+pandas==2.0.3
+google-generativeai>=0.3.2
+python-dotenv==1.0.0
+requests==2.31.0
+pydub==0.25.1
+streamlit==1.28.0
+plotly==5.18.0
+python-json-logger==2.0.7
+pathlib2==2.3.7.post1
